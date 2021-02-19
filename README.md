@@ -7,8 +7,7 @@
 
 ## What is jobfolder?
 
-Jobfolder is an app that helps users that are about to embark on a job hunt. This app will keep them organized with their current resumes, cover letters, keep track of the job they've applied to, and create a place to hold all their previous interview questions. Job hunting is a job in itself, so being organized and having everything in one place will help users make their job hunt less stressful.
-
+Jobfolder helps job seekers manage the job search. Store resumes, cover letters, and interview questions. Receive perfectly timed emails for key moments in the job search. Receive pop quizzes on interview questions. Job hunting is a job in itself, so being organized and having everything in one place will help users make their job hunt less stressful.
 
 ### Tools & Tech used:
 
