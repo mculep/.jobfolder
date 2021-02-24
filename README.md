@@ -5,7 +5,7 @@
 
 ##### Time Frame: Two weeks
 
-## Website: [https://jobfldr.com](https://jobfldr.com)
+## Website: [jobfldr.com](https://jobfldr.com)
 
 ## What is jobfolder?
 
