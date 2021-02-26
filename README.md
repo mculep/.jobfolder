@@ -62,13 +62,13 @@ Although research is not part of the project requirement, we decided to conduct 
 
 ##### <u>Low fidelity</u>
 
-> Here is a screen shot of our draft of our web app
+
 
 ![low-fi](https://raw.githubusercontent.com/wesleyhedrick/Capstone/master/capstone-fe/src/components/images/lowfi.png)
 
 ##### <u>High fidelity</u>
 
-> Final look at what it should look like.
+
 
 
 ![hi-fi](https://raw.githubusercontent.com/wesleyhedrick/Capstone/master/capstone-fe/src/components/images/hi-fi.png)
